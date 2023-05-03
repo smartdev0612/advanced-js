@@ -11,8 +11,8 @@ const array3Chaos = array3.flatMap((creature) => creature + '1')
 
 const userEmail = '   hell@mail.com'
 const userEmail1 = 'hello@gmail.com       '
-console.log(userEmail.trimStart())
-console.log(userEmail1.trimEnd())
+// console.log(userEmail.trimStart())
+// console.log(userEmail1.trimEnd())
 
 userProfiles = [
   ['commanderTom', 23],
